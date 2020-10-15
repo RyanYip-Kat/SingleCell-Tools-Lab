@@ -1,0 +1,13 @@
+library_id,fragments,cells,Status
+MSCE-3h-1-ATAC,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-3h-1-ATAC/outs/fragments.tsv.gz,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-3h-1-ATAC/outs/singlecell.csv,3h
+MSCE-3h-2-ATAC,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-3h-2-ATAC/outs/fragments.tsv.gz,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-3h-2-ATAC/outs/singlecell.csv,3h
+MSCE-3h-3-ATAC,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-3h-3-ATAC/outs/fragments.tsv.gz,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-3h-3-ATAC/outs/singlecell.csv,3h
+MSCE-24h-1-ATAC,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-24h-1-ATAC/outs/fragments.tsv.gz,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-24h-1-ATAC/outs/singlecell.csv,24h
+MSCE-24h-2-ATAC,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-24h-2-ATAC/outs/fragments.tsv.gz,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-24h-2-ATAC/outs/singlecell.csv,24h
+MSCE-24h-3-ATAC,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-24h-3-ATAC/outs/fragments.tsv.gz,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-24h-3-ATAC/outs/singlecell.csv,24h
+MSCE-72h-1-ATAC,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-72h-1-ATAC/outs/fragments.tsv.gz,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-72h-1-ATAC/outs/singlecell.csv,72h
+MSCE-72h-2-ATAC,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-72h-2-ATAC/outs/fragments.tsv.gz,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-72h-2-ATAC/outs/singlecell.csv,72h
+MSCE-72h-3-ATAC,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-72h-3-ATAC/outs/fragments.tsv.gz,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-72h-3-ATAC/outs/singlecell.csv,72h
+MSCE-control-1-ATAC,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-control-1-ATAC/outs/fragments.tsv.gz,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-control-1-ATAC/outs/singlecell.csv,0h
+MSCE-control-2-ATAC,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-control-2-ATAC/outs/fragments.tsv.gz,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-control-2-ATAC/outs/singlecell.csv,0h
+MSCE-control-3-ATAC,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-control-3-ATAC/outs/fragments.tsv.gz,/Data/zoc/result/CEpi/10X-count/10X-ATAC/mouse/MSCE-control-3-ATAC/outs/singlecell.csv,0h
