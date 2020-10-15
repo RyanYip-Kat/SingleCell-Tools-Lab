@@ -1,0 +1,7 @@
+Path,Sample,Batch
+/home/ye/Data/dataset/BCR-TCR/10X_BCR_Align/HH3/filtered_contig_annotations.csv,HH3,HH
+/home/ye/Data/dataset/BCR-TCR/10X_BCR_Align/HH4/filtered_contig_annotations.csv,HH4,HH
+/home/ye/Data/dataset/BCR-TCR/10X_BCR_Align/PDR3/filtered_contig_annotations.csv,PDR3,PDR
+/home/ye/Data/dataset/BCR-TCR/10X_BCR_Align/PDR4/filtered_contig_annotations.csv,PDR4,PDR
+/home/ye/Data/dataset/BCR-TCR/10X_BCR_Align/UVR7/filtered_contig_annotations.csv,UVR7,UVR
+/home/ye/Data/dataset/BCR-TCR/10X_BCR_Align/UVR8/filtered_contig_annotations.csv,UVR8,UVR
