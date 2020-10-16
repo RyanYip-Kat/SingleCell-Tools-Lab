@@ -1,0 +1,13 @@
+nohup: ignoring input
+/home/ye/anaconda3/envs/scanpy/lib/python3.7/site-packages/sklearn/utils/deprecation.py:144: FutureWarning: The sklearn.manifold.t_sne module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.manifold. Anything that cannot be imported from sklearn.manifold is now part of the private API.
+  warnings.warn(message, FutureWarning)
+/home/ye/anaconda3/envs/scanpy/lib/python3.7/site-packages/umap/spectral.py:4: NumbaDeprecationWarning: No direct replacement for 'numba.targets' available. Visit https://gitter.im/numba/numba-dev to request help. Thanks!
+  import numba.targets
+scanpy==1.5.1 anndata==0.7.1 umap==0.4.3 numpy==1.18.1 scipy==1.4.1 pandas==0.25.3 scikit-learn==0.22.1 statsmodels==0.11.0 python-igraph==0.8.2 louvain==0.7.0 leidenalg==0.8.0
+----------------
+----------------
+Extract relevant data from the integrated loom file loom/aging-11/BC/scenic_integrated-output.loom
+----------------
+#RSS panel plot with all cell types
+#Select the top 5 regulons from each cell type
+#Generate a Z-score for each regulon to enable comparison between regulons
