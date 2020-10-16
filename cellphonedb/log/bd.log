@@ -1,0 +1,23 @@
+nohup: ignoring input
+As there is no R environment set up, some functionalities will be disabled, e.g. plot
+[ ][APP][28/02/20-19:23:05][WARNING] Latest local available version is `v2.0.0`, using it
+[ ][APP][28/02/20-19:23:05][WARNING] User selected downloaded database `v2.0.0` is available, using it
+[ ][CORE][28/02/20-19:23:05][INFO] Initializing SqlAlchemy CellPhoneDB Core
+[ ][CORE][28/02/20-19:23:05][INFO] Using custom database at /home/ye/.cpdb/releases/v2.0.0/cellphone.db
+[ ][APP][28/02/20-19:23:05][INFO] Launching Method cpdb_statistical_analysis_local_method_launcher
+[ ][APP][28/02/20-19:23:05][INFO] Launching Method _set_paths
+[ ][APP][28/02/20-19:23:05][INFO] Launching Method _load_meta_counts
+[ ][CORE][28/02/20-19:26:35][INFO] Launching Method cpdb_statistical_analysis_launcher
+[ ][CORE][28/02/20-19:26:35][INFO] Launching Method _counts_validations
+[ ][CORE][28/02/20-19:27:46][INFO] [Cluster Statistical Analysis Simple] Threshold:0.1 Iterations:1000 Debug-seed:-1 Threads:4 Precision:3
+[ ][CORE][28/02/20-19:27:46][INFO] Running Simple Prefilters
+[ ][CORE][28/02/20-19:27:50][INFO] Running Real Simple Analysis
+[ ][CORE][28/02/20-19:27:53][INFO] Running Statistical Analysis
+[ ][CORE][29/02/20-06:39:42][INFO] Building Pvalues result
+[ ][CORE][29/02/20-06:39:53][INFO] Building Simple results
+[ ][CORE][29/02/20-06:39:54][INFO] [Cluster Statistical Analysis Complex] Threshold:0.1 Iterations:1000 Debug-seed:-1 Threads:4 Precision:3
+[ ][CORE][29/02/20-06:39:54][INFO] Running Complex Prefilters
+[ ][CORE][29/02/20-06:43:02][INFO] Running Real Complex Analysis
+[ ][CORE][29/02/20-06:43:03][INFO] Running Statistical Analysis
+[ ][CORE][29/02/20-17:50:15][INFO] Building Pvalues result
+[ ][CORE][29/02/20-17:50:15][INFO] Building Complex results

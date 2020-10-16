@@ -1,0 +1,3 @@
+nohup: ignoring input
+/home/ye/Software/Python/location/envs/r-base/lib/python3.7/site-packages/sklearn/utils/deprecation.py:144: FutureWarning: The sklearn.cluster.k_means_ module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.cluster. Anything that cannot be imported from sklearn.cluster is now part of the private API.
+  warnings.warn(message, FutureWarning)
