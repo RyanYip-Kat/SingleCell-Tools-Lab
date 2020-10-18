@@ -1,0 +1,1 @@
+python ExtractEdges.py --interSpecies expandp --emFile ../NATMI_Config/NGS/k12_k14_k15/6h/em.csv  --annFile ../NATMI_Config/NGS/k12_k14_k15/6h/metadata.csv --coreNum 12 --out results/k12_k14_k15/6h --species "monkey"

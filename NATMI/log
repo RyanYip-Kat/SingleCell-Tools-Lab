@@ -1,0 +1,18 @@
+nohup: ignoring input
+===================================================
+Input data:
+Species to obtain abundance data: monkey
+The expression matrix file: ../NATMI_Config/NGS/G1/total/em.csv
+The metafile: ../NATMI_Config/NGS/G1/total/metadata.csv
+The ligand-receptor interaction database: lrc2p.csv
+Ligand-receptor interactions are used to expand: lrc2p
+The number of cores to use: 12
+The folder to save all results: /home/ye/Work/Python/SingleCell/Project/Isoform/NATMI/results/G1/total
+===================================================
+#### the folder "/home/ye/Work/Python/SingleCell/Project/Isoform/NATMI/results/G1/total" has been created to save the analysis results
+#### cluster the expression matrix
+#### generate cell-to-cell interactions
+#### extract signaling factors
+#### construct signaling interactions
+#### collected 5805 LR-mediated edges
+#### DONE
