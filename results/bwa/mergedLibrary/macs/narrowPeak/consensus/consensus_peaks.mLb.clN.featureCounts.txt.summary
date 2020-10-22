@@ -1,0 +1,15 @@
+Status	UBR-18_R1.mLb.clN.bam	UVR-11_R1.mLb.clN.bam	UVR-14_R1.mLb.clN.bam	PDR-4_R1.mLb.clN.bam	DME-4_R1.mLb.clN.bam
+Assigned	678520	594628	416813	628541	328889
+Unassigned_Unmapped	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0
+Unassigned_NoFeatures	22653094	23317648	16853979	18255685	10905480
+Unassigned_Overlapping_Length	25523	26400	18929	23753	15484
+Unassigned_Ambiguity	0	0	0	0	0

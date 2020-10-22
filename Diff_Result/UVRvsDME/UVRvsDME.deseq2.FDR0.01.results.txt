@@ -1,0 +1,2 @@
+Geneid	Chr	Start	End	Strand	Length	baseMean	log2FoldChange	lfcSE	stat	pvalue	padj	UVR.11_R1.mLb.clN.bam.raw	UVR.14_R1.mLb.clN.bam.raw	DME.4_R1.mLb.clN.bam.raw	UVR.11_R1.mLb.clN.bam.pseudo	UVR.14_R1.mLb.clN.bam.pseudo	DME.4_R1.mLb.clN.bam.pseudo
+Interval_15089	chr8	8227878	8228693	+	816	64.821292633653	-9.10949350060774	1.56231857122698	-5.83075287484646	5.51778508136829e-09	9.21856353544201e-05	0	0	68	0	0	105.237569054861

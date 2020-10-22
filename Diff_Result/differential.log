@@ -1,0 +1,18 @@
+Dimensions of count matrix = 16707 5 
+
+
+UBRvsUVR genes with FDR <= 0.01: 4 (up=1, down=3)
+UBRvsUVR genes with FDR <= 0.01 & FC > 2: 4 (up=1, down=3)
+UBRvsUVR genes with FDR <= 0.05: 6 (up=1, down=5)
+UBRvsUVR genes with FDR <= 0.05 & FC > 2: 6 (up=1, down=5)
+
+UVRvsPDR genes with FDR <= 0.01: 2 (up=1, down=1)
+UVRvsPDR genes with FDR <= 0.01 & FC > 2: 2 (up=1, down=1)
+UVRvsPDR genes with FDR <= 0.05: 4 (up=3, down=1)
+UVRvsPDR genes with FDR <= 0.05 & FC > 2: 4 (up=3, down=1)
+
+UVRvsDME genes with FDR <= 0.01: 1 (up=0, down=1)
+UVRvsDME genes with FDR <= 0.01 & FC > 2: 1 (up=0, down=1)
+UVRvsDME genes with FDR <= 0.05: 2 (up=1, down=1)
+UVRvsDME genes with FDR <= 0.05 & FC > 2: 2 (up=1, down=1)
+
