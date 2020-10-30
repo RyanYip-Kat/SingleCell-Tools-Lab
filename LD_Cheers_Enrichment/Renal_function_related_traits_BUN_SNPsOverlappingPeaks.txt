@@ -1,0 +1,1 @@
+snp	pos	chr	start	end	Naive-B	Naive-T	CM	NK	memory-B	cDC	CD8T	

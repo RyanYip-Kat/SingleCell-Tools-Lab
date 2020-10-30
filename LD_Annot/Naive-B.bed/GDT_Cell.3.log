@@ -1,0 +1,60 @@
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 1.0.1
+* (C) 2014-2019 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./ldsc.py \
+--print-snps /home/ye/Data/SNP_List/LDSCfile/hapmap3_snps/hm.3.snp \
+--ld-wind-cm 1.0 \
+--out /home/ye/Work/BioAligment/SNP/LD_Annot/Naive-B.bed/GDT_Cell.3 \
+--bfile /home/ye/Data/SNP_List/LDSCfile/1000G_Phase3_EAS_plinkfiles/1000G.EAS.QC.3 \
+--thin-annot  \
+--annot /home/ye/Work/BioAligment/SNP/LD_Annot/Naive-B.bed/GDT_Cell.3.annot.gz \
+--l2  
+
+Beginning analysis at Fri Oct 30 11:26:28 2020
+Read list of 629922 SNPs from /home/ye/Data/SNP_List/LDSCfile/1000G_Phase3_EAS_plinkfiles/1000G.EAS.QC.3.bim
+Read 1 annotations for 629922 SNPs from /home/ye/Work/BioAligment/SNP/LD_Annot/Naive-B.bed/GDT_Cell.3.annot.gz
+Read list of 481 individuals from /home/ye/Data/SNP_List/LDSCfile/1000G_Phase3_EAS_plinkfiles/1000G.EAS.QC.3.fam
+Reading genotypes from /home/ye/Data/SNP_List/LDSCfile/1000G_Phase3_EAS_plinkfiles/1000G.EAS.QC.3.bed
+Estimating LD Score.
+Reading list of 96664 SNPs for which to print LD Scores from /home/ye/Data/SNP_List/LDSCfile/hapmap3_snps/hm.3.snp
+After merging with --print-snps, LD Scores for 77501 SNPs will be printed.
+Writing LD Scores for 77501 SNPs to /home/ye/Work/BioAligment/SNP/LD_Annot/Naive-B.bed/GDT_Cell.3.l2.ldscore.gz
+
+Summary of LD Scores in /home/ye/Work/BioAligment/SNP/LD_Annot/Naive-B.bed/GDT_Cell.3.l2.ldscore.gz
+         MAF      L2
+mean  0.2330  0.0006
+std   0.1468  0.0160
+min   0.0052 -0.0021
+25%   0.1019  0.0000
+50%   0.2235  0.0000
+75%   0.3607  0.0000
+max   0.5000  1.0000
+
+MAF/LD Score Correlation Matrix
+        MAF      L2
+MAF  1.0000  0.0081
+L2   0.0081  1.0000
+
+Annotation Correlation Matrix
+       ANNOT
+ANNOT    1.0
+
+Annotation Matrix Column Sums
+ANNOT    4
+
+Summary of Annotation Matrix Row Sums
+count    6.2992e+05
+mean     6.3500e-06
+std      2.5199e-03
+min      0.0000e+00
+25%      0.0000e+00
+50%      0.0000e+00
+75%      0.0000e+00
+max      1.0000e+00
+Analysis finished at Fri Oct 30 11:28:22 2020
+Total time elapsed: 1.0m:53.34s

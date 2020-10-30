@@ -1,0 +1,60 @@
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 1.0.1
+* (C) 2014-2019 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./ldsc.py \
+--print-snps /home/ye/Data/SNP_List/LDSCfile/hapmap3_snps/hm.17.snp \
+--ld-wind-cm 1.0 \
+--out /home/ye/Work/BioAligment/SNP/LD_Annot/NK.bed/GDT_Cell.17 \
+--bfile /home/ye/Data/SNP_List/LDSCfile/1000G_Phase3_EAS_plinkfiles/1000G.EAS.QC.17 \
+--thin-annot  \
+--annot /home/ye/Work/BioAligment/SNP/LD_Annot/NK.bed/GDT_Cell.17.annot.gz \
+--l2  
+
+Beginning analysis at Fri Oct 30 14:33:39 2020
+Read list of 234422 SNPs from /home/ye/Data/SNP_List/LDSCfile/1000G_Phase3_EAS_plinkfiles/1000G.EAS.QC.17.bim
+Read 1 annotations for 234422 SNPs from /home/ye/Work/BioAligment/SNP/LD_Annot/NK.bed/GDT_Cell.17.annot.gz
+Read list of 481 individuals from /home/ye/Data/SNP_List/LDSCfile/1000G_Phase3_EAS_plinkfiles/1000G.EAS.QC.17.fam
+Reading genotypes from /home/ye/Data/SNP_List/LDSCfile/1000G_Phase3_EAS_plinkfiles/1000G.EAS.QC.17.bed
+Estimating LD Score.
+Reading list of 38396 SNPs for which to print LD Scores from /home/ye/Data/SNP_List/LDSCfile/hapmap3_snps/hm.17.snp
+After merging with --print-snps, LD Scores for 29702 SNPs will be printed.
+Writing LD Scores for 29702 SNPs to /home/ye/Work/BioAligment/SNP/LD_Annot/NK.bed/GDT_Cell.17.l2.ldscore.gz
+
+Summary of LD Scores in /home/ye/Work/BioAligment/SNP/LD_Annot/NK.bed/GDT_Cell.17.l2.ldscore.gz
+         MAF      L2
+mean  0.2373  0.0002
+std   0.1449  0.0095
+min   0.0052 -0.0021
+25%   0.1112  0.0000
+50%   0.2287  0.0000
+75%   0.3586  0.0000
+max   0.5000  0.9763
+
+MAF/LD Score Correlation Matrix
+        MAF      L2
+MAF  1.0000  0.0063
+L2   0.0063  1.0000
+
+Annotation Correlation Matrix
+       ANNOT
+ANNOT    1.0
+
+Annotation Matrix Column Sums
+ANNOT    1
+
+Summary of Annotation Matrix Row Sums
+count    2.3442e+05
+mean     4.2658e-06
+std      2.0654e-03
+min      0.0000e+00
+25%      0.0000e+00
+50%      0.0000e+00
+75%      0.0000e+00
+max      1.0000e+00
+Analysis finished at Fri Oct 30 14:34:11 2020
+Total time elapsed: 31.51s
