@@ -1,0 +1,7 @@
+Sample,Source,Platform,Donor,Reference,Location
+sample_1,Corneal_Center,10X,1,hg19,/home/ye/Data/dataset/zheng/scRNA-seq_data/human/1/filtered_gene_bc_matrices/hg19
+sample_2,Corneal_Center,10X,2,hg19,/home/ye/Data/dataset/zheng/scRNA-seq_data/human/2/filtered_gene_bc_matrices/hg19
+sample_3,Corneal_Edge,10X,3,hg19,/home/ye/Data/dataset/zheng/scRNA-seq_data/human/3/filtered_gene_bc_matrices/hg19
+sample_4,Corneal_Edge,10X,4,hg19,/home/ye/Data/dataset/zheng/scRNA-seq_data/human/4/filtered_gene_bc_matrices/hg19
+sample_5,Corneal_Center_Damage,10X,5,hg19,/home/ye/Data/dataset/zheng/scRNA-seq_data/human/5/filtered_gene_bc_matrices/hg19
+sample_6,Corneal_Center_Damage,10X,6,hg19,/home/ye/Data/dataset/zheng/scRNA-seq_data/human/6/filtered_gene_bc_matrices/hg19
