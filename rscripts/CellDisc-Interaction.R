@@ -10,10 +10,14 @@ set.seed(7777)
 
 print("### configure parameters ###")
 parser <- ArgumentParser(description='Process some tasks')
-parser$add_argument("--meta",
+parser$add_argument("--meta",   
 		    type="character",
 		    default=NULL,
-		    help="csv file include to column(label,*.rds)")
+		    help="csv file include to column(label,*.rds)") 
+# meta.csv  like :
+# CD4,CD4-seurat.rds
+# CD8,CD8-seurat.rds
+# ...
 
 parser$add_argument("--slot",
                     type="character",
